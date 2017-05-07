@@ -1,4 +1,4 @@
-# L3845 - Get started developing with Adobe Experience Manager
+# TL09 - Get started developing with Adobe Experience Manager
 
 This a content package project generated using the AEM Multimodule Lazybones template.
 
